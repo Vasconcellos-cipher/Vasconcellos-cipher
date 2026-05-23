@@ -34,6 +34,8 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/SIEM-003366?style=for-the-badge&logo=securityscorecard&logoColor=white">
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white">
 </p>
 
 #### 🐍 Scripting & Dev
@@ -46,29 +48,29 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **
 
 ***
 
-<!-- ### 🚀 Projetos em Destaque --!>
+### 🚀 Projetos em Destaque
 
-<!-- <table width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Cipherx-C/SOC-Monitor">SOC-Monitor</a></h4>
-      <p>Projeto focado em monitoramento de segurança e operações de SOC. Implementação de fluxos para detecção de incidentes e análise de logs, unindo visibilidade de rede e resposta a ameaças.</p>
-      <code>Security Operations</code> <code>Monitoring</code> <code>Blue Team</code>
+      <h4>🛡️ <a href="https://github.com/Vasconcellos-cipher/Blue-Team-Operations-Labs">SOC Incident Monitor & Response</a></h4>
+      <p>Continuous monitoring repository simulating real-world SOC operations. Focused on cyber threat triage, log analysis, open-source intelligence (OSINT) gathering, framework mapping, and host containment strategies.</p>
+      <code>Security Operations</code> <code>Incident Response</code> <code>Blue Team</code>
     </td>
     <td width="50%" valign="top">
-      <h4>⚔️ <a href="https://github.com/Cipherx-C/Codeguardia">Codeguardia</a></h4>
-      <p>Desenvolvimento focado em defesa e boas práticas de segurança cibernética. Um repositório central para ferramentas e scripts voltados à proteção de ambientes e integridade de dados.</p>
-      <code>Cybersecurity</code> <code>E-Learning</code> <code>Python</code>
+      <h4>🚀 <i>Next Project Coming Soon...</i></h4>
+      <p>Space reserved for the next major security implementation, automation script, or advanced forensic labs portfolio simulation.</p>
+      <code>Threat Hunting</code> <code>Automation</code>
     </td>
   </tr>
-</table> -->
+</table>
 
 ***
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cipherx-C&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipherx-C&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vasconcellos-cipher&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vasconcellos-cipher&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ***
