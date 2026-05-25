@@ -9,8 +9,8 @@
 ### 👤 Sobre Mim
 Sou formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **Segurança da Informação**. Atuo no Centro de Gerenciamento de Redes (NOC), com experiência sólida em operações, troubleshooting e monitoramento de Redes de Telecomunicações em larga escala. 
 
-- 🛡️ **Foco Atual:** Especialização em SOC (Security Operations Center) e Defesa Cibernética.
-- 🐍 **Automação:** Desenvolvendo scripts em Python para otimizar rotinas de rede.
+- 🛡️ **Foco Atual:** Especialização em Segurança Ofensiva e Defensiva (Purple Team)
+- 🐍 **Automação:** Scripts em Python voltados para automação de infraestrutura e cybersecurity
 
 📫 **Contato:** [vasconcellos_2008@outlook.com](mailto:vasconcellos_2008@outlook.com) | [Meu Portfolio](https://anacarolinevasconcellos.netlify.app)
 
@@ -54,13 +54,13 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **
   <tr>
     <td width="50%" valign="top">
       <h4>🛡️ <a href="https://github.com/Vasconcellos-cipher/Blue-Team-Operations-Labs">SOC Incident Monitor & Response</a></h4>
-      <p>Continuous monitoring repository simulating real-world SOC operations. Focused on cyber threat triage, log analysis, open-source intelligence (OSINT) gathering, framework mapping, and host containment strategies.</p>
+      <p>A continuous monitoring repository simulating real-world SOC operations. Focused on cyber threat triage, log analysis, open-source intelligence (OSINT) gathering, framework mapping, and host containment strategies.</p>
       <code>Security Operations</code> <code>Incident Response</code> <code>Blue Team</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 <i>Next Project Coming Soon...</i></h4>
-      <p>Space reserved for the next major security implementation, automation script, or advanced forensic labs portfolio simulation.</p>
-      <code>Threat Hunting</code> <code>Automation</code>
+      <h4>⚔️ <a href="https://github.com/Vasconcellos-cipher/Sistema-de-RPG-POOs">RPG Battle System</a></h4>
+      <p>A mini turn-based battle system built in Python to practice Object-Oriented Programming (OOP) concepts in a practical scenario. It simulates combat between characters with distinct classes, attributes, and behaviors.</p>
+      <code>Python</code> <code>OOP</code> <code>Game Logic</code>
     </td>
   </tr>
 </table>
