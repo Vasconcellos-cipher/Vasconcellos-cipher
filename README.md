@@ -7,7 +7,7 @@
 ***
 
 ### 👤 Sobre Mim
-Sou formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **Segurança da Informação**. Atuo no Centro de Gerenciamento de Redes (NOC), com experiência sólida em operações, troubleshooting e monitoramento de Redes de Telecomunicações em larga escala. 
+Formada em **ADS** e pós-graduanda em **Segurança da Informação**. Unindo uma base sólida em monitoramento e troubleshooting de redes em larga escala com o desenvolvimento de automações (Python) e projetos focados em defesa cibernética e análise de vulnerabilidades. 🛡️
 
 - 🛡️ **Foco Atual:** Especialização em Segurança Ofensiva e Defensiva (Purple Team)
 - 🐍 **Automação:** Scripts em Python voltados para automação de infraestrutura e cybersecurity
