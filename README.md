@@ -12,7 +12,7 @@ Formada em **ADS** e pós-graduanda em **Segurança da Informação**. Unindo um
 - 🛡️ **Foco Atual:** Especialização em Segurança Ofensiva e Defensiva (Purple Team)
 - 🐍 **Automação:** Scripts em Python voltados para automação de infraestrutura e cybersecurity
 
-📫 **Contato:** [vasconcellos_2008@outlook.com](mailto:vasconcellos_2008@outlook.com) | [Meu Portfolio](https://anacarolinevasconcellos.netlify.app)
+📫 **Contato:** [Meu E-mail](mailto:vasconcellos_2008@outlook.com) | [Meu Portfolio](https://anacarolinevasconcellos.netlify.app)
 
 ***
 
