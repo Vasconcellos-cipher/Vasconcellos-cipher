@@ -53,7 +53,7 @@ Formada em **ADS** e pós-graduanda em **Segurança da Informação**. Unindo um
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Vasconcellos-cipher/Blue-Team-Operations-Labs">SOC Incident Monitor & Response</a></h4>
+      <h4>🛡️ <a href="https://github.com/Vasconcellos-cipher/Blue-Team-Operations-Labs">Blue-Team-Operations-Labs</a></h4>
       <p>A continuous monitoring repository simulating real-world SOC operations. Focused on cyber threat triage, log analysis, open-source intelligence (OSINT) gathering, framework mapping, and host containment strategies.</p>
       <code>Security Operations</code> <code>Incident Response</code> <code>Blue Team</code>
     </td>
