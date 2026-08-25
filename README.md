@@ -1,24 +1,24 @@
-<h1 align="center">Bem-vindos! <img src="https://media1.giphy.com/media/106ewsSa34VvVu/200w.webp?cid=ecf05e479x1hc1kbvtdgap8a56nzmewfw0y9nmtqrur977pg&rid=200w.webp&ct=s" height="40px" alt="ola"> Eu sou a Ana Caroline</h1>
+<h1 align="center">Welcome! <img src="https://media1.giphy.com/media/106ewsSa34VvVu/200w.webp?cid=ecf05e479x1hc1kbvtdgap8a56nzmewfw0y9nmtqrur977pg&rid=200w.webp&ct=s" height="40px" alt="hello"> I'm Ana Caroline</h1>
 
 <p align="center">
-  <i>Transformando monitoramento manual em fluxos automatizados e seguros.</i>
+  <i>Transforming manual monitoring into automated, secure workflows.</i>
 </p>
 
 ***
 
-### 👤 Sobre Mim
-Formada em **ADS** e pós-graduanda em **Segurança da Informação**. Unindo uma base sólida em monitoramento e troubleshooting de redes em larga escala com o desenvolvimento de automações (Python) e projetos focados em defesa cibernética e análise de vulnerabilidades. 🛡️
+### 👤 About Me
+Graduated in **Systems Analysis and Development** and currently pursuing a postgraduate degree in **Information Security**. Combining a solid foundation in large-scale network monitoring and troubleshooting with Python automation development, cyber defense projects, and vulnerability analysis. 🛡️
 
-- 🛡️ **Foco Atual:** Especialização em Segurança Ofensiva e Defensiva (Purple Team)
-- 🐍 **Automação:** Scripts em Python voltados para automação de infraestrutura e cybersecurity
+- 🛡️ **Current Focus:** Specialization in Offensive and Defensive Security (Purple Team)
+- 🐍 **Automation:** Python scripts focused on infrastructure automation and cybersecurity
 
-📫 **Contato:** [Meu E-mail](mailto:vasconcellos_2008@outlook.com) | [Meu Portfolio](https://anacarolinevasconcellos.netlify.app)
+📫 **Contact:** [My Email](mailto:vasconcellos_2008@outlook.com) | [My Portfolio](https://anacarolinevasconcellos.netlify.app)
 
 ***
 
-### 🛠️ Habilidades & Ferramentas
+### 🛠️ Skills & Tools
 
-#### 📡 Redes & Telecom
+#### 📡 Networks & Telecom
 <p align="left">
   <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/HUAWEI-E60012?style=for-the-badge&logo=huawei&logoColor=white">
@@ -27,7 +27,7 @@ Formada em **ADS** e pós-graduanda em **Segurança da Informação**. Unindo um
   <img src="https://img.shields.io/badge/DATACOM-0054A6?style=for-the-badge&logo=server&logoColor=white">
 </p>
 
-#### 🛡️ Monitoramento & Segurança
+#### 🛡️ Monitoring & Security
 <p align="left">
   <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
@@ -38,7 +38,7 @@ Formada em **ADS** e pós-graduanda em **Segurança da Informação**. Unindo um
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white">
 </p>
 
-#### 🐍 Scripting & Dev
+#### 🐍 Scripting & Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -48,7 +48,7 @@ Formada em **ADS** e pós-graduanda em **Segurança da Informação**. Unindo um
 
 ***
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
