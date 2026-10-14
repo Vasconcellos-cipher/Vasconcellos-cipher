@@ -80,6 +80,4 @@ Graduated in **Systems Analysis and Development** and currently pursuing a postg
   <a href="https://www.instagram.com/anacaroline.vasconcellos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cipherx-C&color=blueviolet" alt="Views" />
-</div>
+
